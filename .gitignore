@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+enrich_spotify.py
+ingest.py
+spotify_processed_seed.csv
